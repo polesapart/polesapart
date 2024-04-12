@@ -9,8 +9,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polesapart&layout=compact)](https://github.com/polesapart/github-readme-stats)
 -->
-
+<div align="center">
 <a href="https://www.buymeacoffee.com/polesapart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  
+![](https://komarev.com/ghpvc/?username=polesapart&style=for-the-badge)
+
+</div>
 
 <!--
 **polesapart/polesapart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
