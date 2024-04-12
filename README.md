@@ -1,7 +1,16 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polesapart&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polesapart&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polesapart&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=polesapart&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=polesapart&theme=monokai&utcOffset=-3)
+
+<!--
 ![PolesApart's github stats](https://github-readme-stats.vercel.app/api?username=polesapart&count_private=true&show_icons=true&hide=contribs,stars&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polesapart&layout=compact)](https://github.com/polesapart/github-readme-stats)
+-->
 
+<a href="https://www.buymeacoffee.com/polesapart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!--
 **polesapart/polesapart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
